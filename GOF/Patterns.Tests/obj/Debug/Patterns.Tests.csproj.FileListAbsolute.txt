@@ -1,0 +1,7 @@
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\bin\Debug\Patterns.Tests.dll
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\bin\Debug\Patterns.Tests.pdb
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\bin\Debug\Patterns.dll
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\bin\Debug\Patterns.pdb
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\ResolveAssemblyReference.cache
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.dll
+d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.pdb
