@@ -1,5 +1,0 @@
-d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns\bin\Debug\Patterns.dll
-d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns\bin\Debug\Patterns.pdb
-d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns\obj\Debug\ResolveAssemblyReference.cache
-d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns\obj\Debug\Patterns.dll
-d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns\obj\Debug\Patterns.pdb
