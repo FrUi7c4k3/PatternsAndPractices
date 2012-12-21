@@ -1,0 +1,51 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TenPenceHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="110" fromTop="5" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FivePenceHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/f:Coin.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FiftyPenceHandler.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/f:SalesOrder.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:CoinHandlerBase.cs" caret="155" fromTop="6" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="15" fromTop="1" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="314" fromTop="12" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="135" fromTop="4" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="322" fromTop="10" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ObjectPipeline.Tests.cs" caret="311" fromTop="17" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="165" fromTop="9" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="1266" fromTop="26" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="118" fromTop="4" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="738" fromTop="14" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="309" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TenPenceHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FivePenceHandler.cs" caret="308" fromTop="10" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="110" fromTop="4" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="110" fromTop="5" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FiftyPenceHandler.cs" caret="308" fromTop="10" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="456" fromTop="13" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/f:SalesOrder.cs" caret="254" fromTop="12" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/f:SalesOrder.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="498" fromTop="18" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="773" fromTop="27" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="121" fromTop="7" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="351" fromTop="14" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="15" fromTop="1" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="103" fromTop="7" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="15" fromTop="1" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="314" fromTop="12" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="376" fromTop="17" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="77" fromTop="4" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="81" fromTop="7" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="374" fromTop="17" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="261" fromTop="7" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ObjectPipeline.Tests.cs" caret="301" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>
