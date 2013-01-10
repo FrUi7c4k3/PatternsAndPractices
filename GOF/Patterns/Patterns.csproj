@@ -47,6 +47,9 @@
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\OnePoundHandler.cs" />
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\TenPenceHandler.cs" />
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\TwentyPenceHandler.cs" />
+    <Compile Include="Behavioural\Memento\Book.cs" />
+    <Compile Include="Behavioural\Memento\BookHistory.cs" />
+    <Compile Include="Behavioural\Memento\Memento.cs" />
     <Compile Include="Behavioural\ObjectPipeline\SalesOrder.cs" />
     <Compile Include="Behavioural\ObjectPipeline\Steps\AllocateStockStep .cs" />
     <Compile Include="Behavioural\ObjectPipeline\Steps\OrderPipelineStep.cs" />

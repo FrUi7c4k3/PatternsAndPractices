@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d966f0fd-606d-4b36-aa01-78d0ecf08152" name="G90082C@DST12125 2013-01-10 16:13:52" runUser="MUD\G90082C" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Trace and Test Impact" id="357218c5-0739-406d-b578-8d4a9f06dbbf">
+    <Description>These are test settings for Trace and Test Impact.</Description>
+    <Deployment runDeploymentRoot="G90082C_DST12125 2013-01-10 16_13_52">
+      <DeploymentItem filename="D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns\bin\Debug\Patterns.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+        <DataCollectors>
+          <DataCollector uri="datacollector://microsoft/SystemInfo/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo.SystemInfoDataCollector, Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="System Information">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/HttpProxy/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TraceCollector.HttpProxyCollector, Microsoft.VisualStudio.TraceCollector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="ASP.NET Client Proxy for IntelliTrace and Test Impact">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/TestImpact/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TraceCollector.TestImpactDataCollector, Microsoft.VisualStudio.TraceCollector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Test Impact">
+          </DataCollector>
+          <DataCollector uri="datacollector://microsoft/TraceDebugger/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TraceCollector.TraceDebuggerDataCollector, Microsoft.VisualStudio.TraceCollector, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="IntelliTrace">
+          </DataCollector>
+        </DataCollectors>
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-10T16:13:52.3919245+02:00" queuing="2013-01-10T16:13:52.4829336+02:00" start="2013-01-10T16:13:54.4821335+02:00" finish="2013-01-10T16:13:56.6093462+02:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <CollectorDataEntries>
+      <Collector agentName="DST12125" uri="datacollector://microsoft/SystemInfo/1.0" collectorDisplayName="System Information">
+        <UriAttachments>
+          <UriAttachment>
+            <A href="DST12125\SystemInformation.xml">System Information from DST12125</A>
+          </UriAttachment>
+        </UriAttachments>
+      </Collector>
+    </CollectorDataEntries>
+    <DataCollectorMessages>
+      <DataCollectorMessage timestamp="2013-01-10T16:13:52.4969350+02:00" dataCollectorUri="datacollector://microsoft/HttpProxy/1.0" dataCollectorFriendlyName="ASP.NET Client Proxy for IntelliTrace and Test Impact" agentName="DST12125" level="Warning">
+        <Text>An error occurred while installing and starting the HTTP proxy used to associate tests with web requests. PRXY0022: When registering the proxy, another instance of the proxy was detected at end point 'cache.sanlam.co.za:8080'. Multiple instances of this proxy are not allowed for the same user on the same computer. (To override this behavior, use the 'AllowMultipleProxies' configuration option.)</Text>
+      </DataCollectorMessage>
+    </DataCollectorMessages>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\users\g90082c\documents\github\patternsandpractices\gof\patterns.tests\bin\debug\patterns.tests.dll" id="28083f3a-fe06-b153-edc2-149afe7c02c6">
+      <Execution id="6de6e827-6643-46e0-b6a9-023cbd1ec6bf" />
+      <TestMethod codeBase="D:/Users/G90082C/Documents/GitHub/PatternsAndPractices/GOF/Patterns.Tests/bin/Debug/Patterns.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Patterns.Tests.Behavioural.Memento, Patterns.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="28083f3a-fe06-b153-edc2-149afe7c02c6" executionId="6de6e827-6643-46e0-b6a9-023cbd1ec6bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6de6e827-6643-46e0-b6a9-023cbd1ec6bf" testId="28083f3a-fe06-b153-edc2-149afe7c02c6" testName="TestMethod1" computerName="DST12125" duration="00:00:01.0285521" startTime="2013-01-10T16:13:54.6041457+02:00" endTime="2013-01-10T16:13:55.9112764+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6de6e827-6643-46e0-b6a9-023cbd1ec6bf">
+      <Output>
+        <DebugTrace>0450488357 - 'The Tommyknockers' by Stephen King, edited 01/10/2013 14:13:54.
+0330376144 - 'The Rats' by James Herbert, edited 01/10/2013 14:13:55.
+Version Number		|		Last Edited
+2			|		01/10/2013 14:13:55
+1			|		01/10/2013 14:13:54
+0450488357 - 'The Tommyknockers' by Stephen King, edited 01/10/2013 14:13:54.
+</DebugTrace>
+      </Output>
+      <CollectorDataEntries>
+        <Collector agentName="DST12125" uri="datacollector://microsoft/SystemInfo/1.0" collectorDisplayName="System Information">
+          <UriAttachments>
+            <UriAttachment>
+              <A href="DST12125\SystemInformation.xml">System Information from DST12125</A>
+            </UriAttachment>
+          </UriAttachments>
+        </Collector>
+        <Collector agentName="DST12125" uri="datacollector://microsoft/TestImpact/1.0" collectorDisplayName="Test Impact">
+          <UriAttachments>
+            <UriAttachment>
+              <A href="DST12125\testimpact.xml">Test Impact Data</A>
+            </UriAttachment>
+          </UriAttachments>
+        </Collector>
+      </CollectorDataEntries>
+    </UnitTestResult>
+  </Results>
+</TestRun>

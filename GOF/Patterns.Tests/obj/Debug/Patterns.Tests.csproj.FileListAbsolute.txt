@@ -5,3 +5,10 @@ d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\bin\De
 d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\ResolveAssemblyReference.cache
 d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.dll
 d:\users\g90082c\documents\visual studio 2010\Projects\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\bin\Debug\Patterns.Tests.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\bin\Debug\Patterns.Tests.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\bin\Debug\Patterns.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\bin\Debug\Patterns.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.csprojResolveAssemblyReference.cache
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\GOF\Patterns.Tests\obj\Debug\Patterns.Tests.pdb
