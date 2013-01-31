@@ -47,6 +47,11 @@
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\OnePoundHandler.cs" />
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\TenPenceHandler.cs" />
     <Compile Include="Behavioural\ChainOfResponsibility\Handlers\TwentyPenceHandler.cs" />
+    <Compile Include="Behavioural\Interpreter\Expressions\AdditionExpression.cs" />
+    <Compile Include="Behavioural\Interpreter\Expressions\ExpressionBase.cs" />
+    <Compile Include="Behavioural\Interpreter\Expressions\IntegerExpression.cs" />
+    <Compile Include="Behavioural\Interpreter\Expressions\SubtractionExpression.cs" />
+    <Compile Include="Behavioural\Interpreter\Parser.cs" />
     <Compile Include="Behavioural\Memento\Book.cs" />
     <Compile Include="Behavioural\Memento\BookHistory.cs" />
     <Compile Include="Behavioural\Memento\Memento.cs" />
@@ -59,7 +64,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Creational\" />
     <Folder Include="Structural\" />
   </ItemGroup>

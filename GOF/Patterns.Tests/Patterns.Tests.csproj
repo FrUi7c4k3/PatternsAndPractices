@@ -45,6 +45,7 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioural\Interpreter.Tests.cs" />
     <Compile Include="Behavioural\Memento.Tests.cs" />
     <Compile Include="Behavioural\ObjectPipeline.Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

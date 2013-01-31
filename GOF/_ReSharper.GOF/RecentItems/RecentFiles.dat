@@ -13,35 +13,20 @@
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="314" fromTop="12" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="135" fromTop="4" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
-    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="322" fromTop="10" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ObjectPipeline.Tests.cs" caret="311" fromTop="17" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Memento.cs" caret="402" fromTop="15" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Book.cs" caret="281" fromTop="0" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1462" fromTop="31" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1145" fromTop="15" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:ExpressionBase.cs" caret="18" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:IntegerExpression.cs" caret="410" fromTop="20" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:SubtractionExpression.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:AdditionExpression.cs" caret="207" fromTop="7" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="0" fromTop="0" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Memento.Tests.cs" caret="502" fromTop="14" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/f:Parser.cs" caret="854" fromTop="16" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="780" fromTop="24" />
   </RecentFiles>
   <RecentEdits>
-    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="738" fromTop="14" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="309" fromTop="10" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TenPenceHandler.cs" caret="308" fromTop="10" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="308" fromTop="10" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FivePenceHandler.cs" caret="308" fromTop="10" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="110" fromTop="4" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="110" fromTop="5" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:FiftyPenceHandler.cs" caret="308" fromTop="10" />
-    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="456" fromTop="13" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/f:SalesOrder.cs" caret="254" fromTop="12" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/f:SalesOrder.cs" caret="0" fromTop="0" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="498" fromTop="18" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="773" fromTop="27" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:OrderPipelineStep.cs" caret="0" fromTop="0" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="121" fromTop="7" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="351" fromTop="14" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:StoreOrderStep.cs" caret="15" fromTop="1" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="103" fromTop="7" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="15" fromTop="1" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendInvoiceStep.cs" caret="314" fromTop="12" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="376" fromTop="17" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:SendSoftwareProductEmailStep .cs" caret="77" fromTop="4" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="81" fromTop="7" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="374" fromTop="17" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
@@ -50,5 +35,27 @@
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Book.cs" caret="15" fromTop="1" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1326" fromTop="25" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1462" fromTop="31" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:ExpressionBase.cs" caret="76" fromTop="7" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:ExpressionBase.cs" caret="18" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:IntegerExpression.cs" caret="240" fromTop="13" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:IntegerExpression.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:IntegerExpression.cs" caret="163" fromTop="4" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:IntegerExpression.cs" caret="410" fromTop="20" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:AdditionExpression.cs" caret="108" fromTop="7" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:AdditionExpression.cs" caret="321" fromTop="15" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:SubtractionExpression.cs" caret="551" fromTop="29" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:SubtractionExpression.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:AdditionExpression.cs" caret="0" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/d:Expressions/f:AdditionExpression.cs" caret="544" fromTop="23" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/f:Parser.cs" caret="368" fromTop="14" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/f:Parser.cs" caret="743" fromTop="31" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Interpreter/f:Parser.cs" caret="1216" fromTop="39" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Memento.Tests.cs" caret="496" fromTop="16" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Memento.Tests.cs" caret="0" fromTop="0" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="1038" fromTop="33" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="674" fromTop="21" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="853" fromTop="30" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="68" fromTop="2" />
+    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:Interpreter.Tests.cs" caret="578" fromTop="13" />
   </RecentEdits>
 </RecentFiles>
