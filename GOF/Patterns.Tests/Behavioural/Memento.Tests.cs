@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Patterns.Behavioural.Memento;
 using System.Threading;
 
@@ -14,7 +10,7 @@ namespace Patterns.Tests.Behavioural
 	/// but can be restored to the saved state at any time.
 	/// </summary>
 	[TestClass]
-	public class Memento
+	public class MementoTests
 	{
 		[TestMethod]
 		public void TestMethod1()

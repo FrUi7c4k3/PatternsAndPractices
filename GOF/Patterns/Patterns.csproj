@@ -59,6 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Behavioural\Interpreter\" />
     <Folder Include="Creational\" />
     <Folder Include="Structural\" />
   </ItemGroup>

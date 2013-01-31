@@ -62,14 +62,12 @@ namespace Patterns.Behavioural.Memento
 
 		#region Private Methods
 
-		private static Book RestoreBook(Book book, Memento memento)
+		private static void RestoreBook(Book book, Memento memento)
 		{
 			if (memento != null && book != null)
 			{
 				book.RestoreFromUndo(memento);
 			}
-
-			return book;
 		}
 
 		#endregion //Private Methods

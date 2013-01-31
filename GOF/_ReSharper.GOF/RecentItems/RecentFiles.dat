@@ -15,11 +15,11 @@
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="322" fromTop="10" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ObjectPipeline.Tests.cs" caret="311" fromTop="17" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Memento.cs" caret="402" fromTop="15" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Book.cs" caret="281" fromTop="0" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1462" fromTop="31" />
   </RecentFiles>
   <RecentEdits>
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:OnePoundHandler.cs" caret="165" fromTop="9" />
-    <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="1266" fromTop="26" />
-    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="118" fromTop="4" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="738" fromTop="14" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TwentyPenceHandler.cs" caret="309" fromTop="10" />
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ChainOfResponsibility/d:Handlers/f:TenPenceHandler.cs" caret="308" fromTop="10" />
@@ -47,5 +47,8 @@
     <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:ObjectPipeline/d:Steps/f:AllocateStockStep .cs" caret="15" fromTop="1" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ChainOfResponsibility.Tests.cs" caret="261" fromTop="7" />
     <File id="CAA67184-EBB7-49AD-AF18-FE718AD37946/d:Behavioural/f:ObjectPipeline.Tests.cs" caret="301" fromTop="15" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:Book.cs" caret="15" fromTop="1" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1326" fromTop="25" />
+    <File id="8F2F12D6-EA87-41CD-9271-DF2F6444F6BB/d:Behavioural/d:Memento/f:BookHistory.cs" caret="1462" fromTop="31" />
   </RecentEdits>
 </RecentFiles>

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Diagnostics;
 
 namespace Patterns.Behavioural.Memento
@@ -14,8 +11,7 @@ namespace Patterns.Behavioural.Memento
 		private DateTime _lastEdited;
 		private int _versionNumber;
 
-		private BookHistory _history = new BookHistory();
-
+		private readonly BookHistory _history = new BookHistory();
 		#region Constructors
 
 		public Book()
