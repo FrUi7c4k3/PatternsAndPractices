@@ -1,0 +1,8 @@
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.exe.config
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.exe
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\bin\Debug\log4net.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\bin\Debug\log4net.xml
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\obj\x86\Debug\Log4NetTest.exe
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Log4NetTest\Log4NetTest\obj\x86\Debug\Log4NetTest.pdb

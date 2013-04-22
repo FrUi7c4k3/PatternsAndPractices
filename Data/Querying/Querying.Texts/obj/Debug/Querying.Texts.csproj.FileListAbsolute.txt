@@ -1,0 +1,13 @@
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\Querying.Texts.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\Querying.Texts.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\Querying.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Linq.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Core.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Interfaces.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\Querying.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Linq.xml
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Core.xml
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\bin\Debug\System.Reactive.Interfaces.xml
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\obj\Debug\Querying.Texts.dll
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying.Texts\obj\Debug\Querying.Texts.pdb

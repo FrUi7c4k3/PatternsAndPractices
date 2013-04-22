@@ -1,0 +1,1 @@
+﻿D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\packages\Rx-Core.2.0.21114\lib\Net40\System.Reactive.Core.dll
