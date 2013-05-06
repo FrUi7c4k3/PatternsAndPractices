@@ -1,4 +1,3 @@
-D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\Querying.dll
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\Querying.pdb
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\Microsoft.Reactive.Testing.dll
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\System.Reactive.Core.dll
@@ -11,5 +10,6 @@ D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bi
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\System.Reactive.Linq.xml
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\System.Reactive.PlatformServices.xml
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\obj\Debug\ResolveAssemblyReference.cache
-D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\obj\Debug\Querying.dll
 D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\obj\Debug\Querying.pdb
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\bin\Debug\Querying.exe
+D:\Users\G90082C\Documents\GitHub\PatternsAndPractices\Data\Querying\Querying\obj\Debug\Querying.exe

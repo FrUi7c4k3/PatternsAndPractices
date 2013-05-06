@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying", "Querying\Querying.csproj", "{0F2E2755-6C34-406A-AB71-BA8E124F8DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying.Texts", "Querying.Texts\Querying.Texts.csproj", "{3132EB4A-D09E-4F1E-976D-C59B4134B13D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C65DD392-0958-43D9-A5C2-1A1F433FDCF3}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
@@ -25,10 +23,6 @@ Global
 		{0F2E2755-6C34-406A-AB71-BA8E124F8DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2E2755-6C34-406A-AB71-BA8E124F8DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2E2755-6C34-406A-AB71-BA8E124F8DC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3132EB4A-D09E-4F1E-976D-C59B4134B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3132EB4A-D09E-4F1E-976D-C59B4134B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3132EB4A-D09E-4F1E-976D-C59B4134B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3132EB4A-D09E-4F1E-976D-C59B4134B13D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
