@@ -6,7 +6,7 @@
 		{
 			ObservableSequences sequences = new ObservableSequences();
 			//sequences.Test();
-			sequences.Test7();
+			sequences.Test9();
 		}
 	}
 }

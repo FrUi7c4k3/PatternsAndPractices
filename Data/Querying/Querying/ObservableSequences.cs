@@ -4,11 +4,14 @@ using System.Reactive;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
 using System.Windows.Forms;
+using Querying.DictionarySuggestService;
 
 namespace Querying
 {
 	public class ObservableSequences
 	{
+		DictServiceSoapClient _svc = new DictServiceSoapClient("DictServiceSoap"); 
+		
 		public void Test()
 		{
 			//Observable.Empty<int>(); // OnCompleted
@@ -117,9 +120,7 @@ namespace Querying
 
 		public void Test7()
 		{
-			var lbl = new Label();
-			var txt = new TextBox();
-			var frm = new Form { Controls = { lbl, txt } };
+			var frm = new Form();
 
 			var movepoints = from evt in Observable.FromEventPattern<MouseEventArgs>(frm, "MouseMove")
 								  select evt.EventArgs.Location;
@@ -138,9 +139,8 @@ namespace Querying
 
 		public void Test8()
 		{
-			var lbl = new Label();
 			var txt = new TextBox();
-			var frm = new Form { Controls = { lbl, txt } };
+			var frm = new Form { Controls = { txt } };
 
 			var input = (from evt in Observable.FromEventPattern<EventArgs>(txt, "TextChanged") 
 							 select ((TextBox)evt.Sender).Text)
@@ -153,12 +153,72 @@ namespace Querying
 			}
 		}
 
+		/// <summary>
+		/// THROTTLING
+		/// </summary>
+		public void Test9()
+		{
+			var txt = new TextBox();
+			var frm = new Form { Controls = { txt } };
 
-		//TODO: THROTTLING
+			var input = (from evt in Observable.FromEventPattern<EventArgs>(txt, "TextChanged")
+							 select ((TextBox)evt.Sender).Text)
+							 .Throttle(TimeSpan.FromSeconds(1))
+							 .DistinctUntilChanged();  // Filter superfluous / duplicate notifications 
 
-		//void frm_MouseMove(object sender, MouseEventArgs e)
-		//{
-		//   throw new NotImplementedException();
-		//}
+			using (input.Subscribe(inp => Console.WriteLine("User wrote: " + inp)))
+			{
+				Application.Run(frm);
+			}
+		}
+
+		#region Async pattern
+
+		public void Test10()
+		{
+			// OLD SCHOOL
+			_svc.BeginMatchInDict("wn", "react", "prefix", Callback, null); 
+
+			Console.ReadLine();
+		}
+
+		public void Test11()
+		{
+			var matchInDict = Observable.FromAsyncPattern<string, string, string, DictionaryWord[]>(_svc.BeginMatchInDict, _svc.EndMatchInDict);
+			matchInDict("wn", "react", "prefix").Subscribe(words =>
+			{
+				foreach (var word in words)
+				{
+					Console.WriteLine(word.Word);
+				}
+			});
+		}
+
+		public void Test12()
+		{
+			var matchInDict = Observable.FromAsyncPattern<string, string, string, DictionaryWord[]>(_svc.BeginMatchInDict, _svc.EndMatchInDict);
+
+			Func<string, IObservable<DictionaryWord[]>> matchInWordNetByPrefix = term => matchInDict("wn", term, "prefix");
+
+			matchInWordNetByPrefix("react").Subscribe(
+				words =>
+				{
+					foreach (var word in words)
+					{
+						Console.WriteLine(word.Word);
+					}
+				},
+				ex => Console.WriteLine(ex.Message));
+		}
+
+		private void Callback(IAsyncResult iar)
+		{
+			var words = _svc.EndMatchInDict(iar);
+
+			foreach (var word in words)
+				Console.WriteLine(word.Word);
+		}
+
+		#endregion //Async pattern
 	}
 }

@@ -3,5 +3,5 @@
   <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
   <Module PersistentId="System.Reactive.Core, Version=2.0.20823.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Reactive.Core" />
   <Module PersistentId="System.Reactive.Linq, Version=2.0.20823.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Reactive.Linq" />
-  <Module PersistentId="3132EB4A-D09E-4F1E-976D-C59B4134B13D" ModuleId="Querying.Texts" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
 </Modules>
