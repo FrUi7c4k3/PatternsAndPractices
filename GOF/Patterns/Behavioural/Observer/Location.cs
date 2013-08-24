@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Patterns.Behavioural.Observer
 {
-	public class Location
+	public struct Location
 	{
 		double _lat, _lon;
 

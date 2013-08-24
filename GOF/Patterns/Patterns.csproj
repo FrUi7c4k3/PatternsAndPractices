@@ -62,7 +62,10 @@
     <Compile Include="Behavioural\ObjectPipeline\Steps\SendSoftwareProductEmailStep .cs" />
     <Compile Include="Behavioural\ObjectPipeline\Steps\StoreOrderStep.cs" />
     <Compile Include="Behavioural\Observer\Location.cs" />
+    <Compile Include="Behavioural\Observer\LocationReporter.cs" />
     <Compile Include="Behavioural\Observer\LocationTracker.cs" />
+    <Compile Include="Behavioural\Observer\LocationUnknownException.cs" />
+    <Compile Include="Functional\Monads.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

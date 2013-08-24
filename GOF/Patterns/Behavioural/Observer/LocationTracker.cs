@@ -24,7 +24,27 @@ namespace Patterns.Behavioural.Observer
 			return new Unsubscriber(_observers, observer);
 		}
 
+		public void TrackLocation(Nullable<Location> loc)
+		{
+			foreach (var observer in _observers)
+			{
+				if (!loc.HasValue)
+					observer.OnError(new LocationUnknownException());
+				else
+					observer.OnNext(loc.Value);
+			}
+		}
 
+		public void EndTransmission()
+		{
+			foreach (var observer in _observers.ToArray())
+			{
+				if (_observers.Contains(observer))
+					observer.OnCompleted();
+			}
+
+			_observers.Clear();
+		}
 	
 		private class Unsubscriber : IDisposable
 		{
